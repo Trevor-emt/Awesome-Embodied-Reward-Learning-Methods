@@ -1,8 +1,7 @@
 # Awesome Embodied Reward Learning Methods
 
-A curated reading list accompanying **A Survey of Embodied Rewards for Robotic Manipulation**. This list follows the four reward families and subsection structure of the survey version dated **October 22, 2026**.
-
-The collection covers **119 distinct papers** on reward construction, including the methodological precursors discussed in the survey. Papers are organized by their primary reward supervision: desired outcomes, task progress, demonstrated behavior, and comparative judgments.
+A curated reading list accompanying **A Survey of Embodied Rewards for Robotic Manipulation**. 
+<!-- The collection covers **119 distinct papers** on reward construction, including the methodological precursors discussed in the survey. Papers are organized by their primary reward supervision: desired outcomes, task progress, demonstrated behavior, and comparative judgments. -->
 
 ## Contents
 
