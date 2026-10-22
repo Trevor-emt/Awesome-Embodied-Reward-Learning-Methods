@@ -52,7 +52,7 @@ The collection covers **119 distinct papers** on reward construction, including 
 | Year | Paper | Links |
 | --- | --- | --- |
 | 2018 | **Visual Foresight**: Model-Based Deep Reinforcement Learning for Vision-Based Robotic Control | [Paper](https://arxiv.org/abs/1812.00568) &middot; [Code](https://github.com/SudeepDasari/visual_foresight) &middot; [Website](https://sites.google.com/view/visualforesight/home) |
-| 2020 | **Object-Centric Forward Modeling** for Model Predictive Control | [Paper](https://proceedings.mlr.press/v100/ye20a.html) &middot; [Website](https://judyye.github.io/ocmpc/) |
+| 2020 | Object-Centric Forward Modeling for Model Predictive Control | [Paper](https://proceedings.mlr.press/v100/ye20a.html) &middot; [Website](https://judyye.github.io/ocmpc/) |
 | 2021 | **S3K**: Self-Supervised Semantic Keypoints for Robotic Manipulation via Multi-View Consistency | [Paper](https://proceedings.mlr.press/v155/vecerik21a.html) &middot; [Website](https://sites.google.com/view/2020-s3k/home) |
 | 2024 | **Code as Reward**: Empowering Reinforcement Learning with VLMs | [Paper](https://proceedings.mlr.press/v235/venuto24a.html) &middot; [Code](https://github.com/dvVenuto/vlm-car) |
 | 2025 | **KAGI**: Affordance-Guided Reinforcement Learning via Visual Prompting | [Paper](https://arxiv.org/abs/2407.10341) &middot; [Website](https://sites.google.com/view/affordance-guided-rl) |
@@ -75,7 +75,7 @@ The collection covers **119 distinct papers** on reward construction, including 
 | 2022 | **ZeST**: Can Foundation Models Perform Zero-Shot Task Specification for Robot Manipulation? | [Paper](https://arxiv.org/abs/2204.11134) &middot; [Website](https://sites.google.com/view/zestproject) |
 | 2022 | **XIRL**: Cross-Embodiment Inverse Reinforcement Learning | [Paper](https://proceedings.mlr.press/v164/zakka22a.html) &middot; [Website](https://x-irl.github.io/) |
 | 2022 | **Grounded-NL-R**: Zero-Shot Reward Specification via Grounded Natural Language | [Paper](https://proceedings.mlr.press/v162/mahmoudieh22a.html) |
-| 2023 | **Graph Inverse Reinforcement Learning** from Diverse Videos | [Paper](https://proceedings.mlr.press/v205/kumar23a.html) &middot; [Code](https://github.com/SateeshKumar21/graph-inverse-rl) &middot; [Website](https://graphirl.github.io/) |
+| 2023 | Graph Inverse Reinforcement Learning from Diverse Videos | [Paper](https://proceedings.mlr.press/v205/kumar23a.html) &middot; [Code](https://github.com/SateeshKumar21/graph-inverse-rl) &middot; [Website](https://graphirl.github.io/) |
 | 2023 | **LIV**: Language-Image Representations and Rewards for Robotic Control | [Paper](https://arxiv.org/abs/2306.00958) &middot; [Code](https://github.com/penn-pal-lab/LIV) &middot; [Website](https://penn-pal-lab.github.io/LIV) |
 | 2023 | **VIP**: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training | [Paper](https://arxiv.org/abs/2210.00030) &middot; [Code](https://github.com/facebookresearch/vip) |
 | 2023 | **CLIP-ZS**: Vision-Language Models as a Source of Rewards | [Paper](https://arxiv.org/abs/2312.09187) |
@@ -94,7 +94,7 @@ The collection covers **119 distinct papers** on reward construction, including 
 | 2026 | **Reward-Zero**: Language Embedding Driven Implicit Reward Mechanisms for Reinforcement Learning | [Paper](https://arxiv.org/abs/2603.09331) |
 | 2026 | **RMTL**: Reinforced Micro-task Learning for Long-Horizon Manipulation with VLM Rewards | [Paper](https://arxiv.org/abs/2606.26175) |
 | 2026 | **Temporal-Distance JEPA**: Plan-Aware Representation Learning for Latent World Model Predictive Control | [Paper](https://arxiv.org/abs/2607.25337) &middot; [Code](https://github.com/HKBU-KnowComp/Temporal-Distance-JEPA) |
-| 2026 | **Temporal Straightening** for Latent Planning | [Paper](https://proceedings.mlr.press/v306/wang26n.html) &middot; [Code](https://github.com/agentic-learning-ai-lab/temporal-straightening/) |
+| 2026 | Temporal Straightening for Latent Planning | [Paper](https://proceedings.mlr.press/v306/wang26n.html) &middot; [Code](https://github.com/agentic-learning-ai-lab/temporal-straightening/) |
 
 <!-- ### Goal Specification and Acquisition
 
