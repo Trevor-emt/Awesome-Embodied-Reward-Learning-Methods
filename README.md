@@ -1,7 +1,6 @@
 # Awesome Embodied Reward Learning Methods
 
 A curated reading list accompanying **A Survey of Embodied Rewards for Robotic Manipulation**. 
-<!-- The collection covers **119 distinct papers** on reward construction, including the methodological precursors discussed in the survey. Papers are organized by their primary reward supervision: desired outcomes, task progress, demonstrated behavior, and comparative judgments. -->
 
 ## Contents
 
@@ -95,31 +94,6 @@ A curated reading list accompanying **A Survey of Embodied Rewards for Robotic M
 | 2026 | **Temporal-Distance JEPA**: Plan-Aware Representation Learning for Latent World Model Predictive Control | [Paper](https://arxiv.org/abs/2607.25337) &middot; [Code](https://github.com/HKBU-KnowComp/Temporal-Distance-JEPA) |
 | 2026 | Temporal Straightening for Latent Planning | [Paper](https://proceedings.mlr.press/v306/wang26n.html) &middot; [Code](https://github.com/agentic-learning-ai-lab/temporal-straightening/) |
 
-<!-- ### Goal Specification and Acquisition
-
-| Year | Paper | Links |
-| --- | --- | --- |
-| 2018 | **Visual Foresight**: Model-Based Deep Reinforcement Learning for Vision-Based Robotic Control | [Paper](https://arxiv.org/abs/1812.00568) &middot; [Code](https://github.com/SudeepDasari/visual_foresight) &middot; [Website](https://sites.google.com/view/visualforesight/home) |
-| 2018 | **RIG**: Visual Reinforcement Learning with Imagined Goals | [Paper](https://arxiv.org/abs/1807.04742) &middot; [Code](https://github.com/rail-berkeley/rlkit) &middot; [Website](https://sites.google.com/site/visualrlwithimaginedgoals/) |
-| 2019 | **VICE-RAQ**: End-To-End Robotic Reinforcement Learning without Reward Engineering | [Paper](https://arxiv.org/abs/1904.07854) &middot; [Code](https://github.com/avisingh599/reward-learning-rl) &middot; [Website](https://sites.google.com/view/reward-learning-rl/) |
-| 2019 | **Hierarchical Visual Foresight**: Hierarchical Foresight: Self-Supervised Learning of Long-Horizon Tasks via Visual Subgoal Generation | [Paper](https://arxiv.org/abs/1909.05829) |
-| 2020 | **CC-RIG**: Contextual Imagined Goals for Self-Supervised Robotic Learning | [Paper](https://proceedings.mlr.press/v100/nair20a.html) &middot; [Code](https://github.com/anair13/rlkit/tree/ccrig/examples/ccrig) &middot; [Website](https://ccrig.github.io/) |
-| 2023 | **LfVoid**: Can Pre-Trained Text-to-Image Models Generate Visual Goals for Reinforcement Learning? | [Paper](https://arxiv.org/abs/2307.07837) &middot; [Code](https://github.com/gaojl19/LfVoid) &middot; [Website](https://lfvoid-rl.github.io/) |
-| 2023 | **LIV**: Language-Image Representations and Rewards for Robotic Control | [Paper](https://arxiv.org/abs/2306.00958) &middot; [Code](https://github.com/penn-pal-lab/LIV) &middot; [Website](https://penn-pal-lab.github.io/LIV) |
-| 2024 | **Adapt2Reward**: Adapting Video-Language Models to Generalizable Robotic Rewards via Failure Prompts | [Paper](https://arxiv.org/abs/2407.14872) |
-| 2024 | **DecisionNCE**: Embodied Multimodal Representations via Implicit Preference Learning | [Paper](https://proceedings.mlr.press/v235/li24cr.html) &middot; [Code](https://github.com/2toinf/DecisionNCE) &middot; [Website](https://2toinf.github.io/DecisionNCE/) |
-| 2024 | **VLM-RM**: Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning | [Paper](https://arxiv.org/abs/2310.12921) &middot; [Code](https://github.com/AlignmentResearch/vlmrm) |
-| 2025 | **KAGI**: Affordance-Guided Reinforcement Learning via Visual Prompting | [Paper](https://arxiv.org/abs/2407.10341) &middot; [Website](https://sites.google.com/view/affordance-guided-rl) |
-| 2025 | **GenReward**: Goal-Driven Reward by Video Diffusion Models for Reinforcement Learning | [Paper](https://arxiv.org/abs/2512.00961) &middot; [Code](https://github.com/qiwang067/GenReward) &middot; [Website](https://qiwang067.github.io/genreward) |
-| 2025 | **GoalLadder**: Incremental Goal Discovery with Vision-Language Models | [Paper](https://arxiv.org/abs/2506.16396) |
-| 2025 | **Points2Reward**: Robotic Manipulation Rewards from Just One Video | [Paper](https://points2reward.github.io/static/Points2Reward.pdf) &middot; [Website](https://points2reward.github.io/) |
-| 2025 | **RL with Anticipation**: Reinforcement Learning with Anticipation: A Hierarchical Approach for Long-Horizon Tasks | [Paper](https://arxiv.org/abs/2509.05545) |
-| 2025 | **VICtoR**: Learning Hierarchical Vision-Instruction Correlation Rewards for Long-Horizon Manipulation | [Paper](https://arxiv.org/abs/2405.16545) &middot; [Code](https://github.com/cmlab-victor/victor-code) |
-| 2026 | **Anticipation-VLA**: Solving Long-Horizon Embodied Tasks via Anticipation-based Subgoal Generation | [Paper](https://arxiv.org/abs/2605.01772) |
-| 2026 | **ReLAM**: Learning Anticipation Model for Rewarding Visual Robotic Manipulation | [Paper](https://proceedings.mlr.press/v306/tang26o.html) |
-| 2026 | **Reward-Zero**: Language Embedding Driven Implicit Reward Mechanisms for Reinforcement Learning | [Paper](https://arxiv.org/abs/2603.09331) |
-| 2026 | **RMTL**: Reinforced Micro-task Learning for Long-Horizon Manipulation with VLM Rewards | [Paper](https://arxiv.org/abs/2606.26175) | -->
-
 ## Progress-oriented Rewards
 
 ### Absolute Progress Estimation
@@ -190,7 +164,7 @@ A curated reading list accompanying **A Survey of Embodied Rewards for Robotic M
 
 | Year | Paper | Links |
 | --- | --- | --- |
-| 2023 | **VIPER**: Video Prediction Models as Rewards for Reinforcement Learning | [Paper](https://arxiv.org/abs/2305.14343) &middot; [Code](https://github.com/escontra/viper_rl) |
+| 2023 | **VIPER**: Video Prediction Models as Rewards for Reinforcement Learning | [Paper](https://arxiv.org/abs/2305.14343) &middot; [Code](https://github.com/escontra/viper_rl) &middot; [Website](https://escontrela.me/viper/) |
 | 2024 | **Diffusion Reward**: Learning Rewards via Conditional Video Diffusion | [Paper](https://arxiv.org/abs/2312.14134) &middot; [Code](https://github.com/TEA-Lab/diffusion_reward) &middot; [Website](https://diffusion-reward.github.io/) |
 | 2025 | **ActionSink**: Toward Precise Robot Manipulation with Dynamic Integration of Action Flow | [Paper](https://arxiv.org/abs/2508.03218) |
 | 2026 | **Dream2Reward**: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation | [Paper](https://arxiv.org/abs/2608.18787) |
@@ -202,8 +176,8 @@ A curated reading list accompanying **A Survey of Embodied Rewards for Robotic M
 | Year | Paper | Links |
 | --- | --- | --- |
 | 2021 | **P-SIL**: Imitation Learning from Pixel Observations for Continuous Control | [Paper](https://openreview.net/forum?id=Xe5MFhFvYGX) |
-| 2021 | **DVD**: Learning Generalizable Robotic Reward Functions from "In-The-Wild" Human Videos | [Paper](https://arxiv.org/abs/2103.16817) &middot; [Code](https://github.com/anniesch/dvd) |
-| 2023 | **RoboCLIP**: One Demonstration is Enough to Learn Robot Policies | [Paper](https://arxiv.org/abs/2310.07899) &middot; [Code](https://github.com/sumedh7/RoboCLIP/) |
+| 2021 | **DVD**: Learning Generalizable Robotic Reward Functions from "In-The-Wild" Human Videos | [Paper](https://arxiv.org/abs/2103.16817) &middot; [Code](https://github.com/anniesch/dvd) &middot; [Website](https://sites.google.com/view/dvd-human-videos) |
+| 2023 | **RoboCLIP**: One Demonstration is Enough to Learn Robot Policies | [Paper](https://arxiv.org/abs/2310.07899) &middot; [Code](https://github.com/sumedh7/RoboCLIP/) &middot; [Website](https://sites.google.com/view/roboclip/home) |
 | 2023 | **ROT**: Watch and Match: Supercharging Imitation with Regularized Optimal Transport | [Paper](https://proceedings.mlr.press/v205/haldar23a.html) &middot; [Code](https://github.com/siddhanthaldar/ROT) &middot; [Website](https://rot-robot.github.io/) |
 | 2024 | **TemporalOT**: Robot Policy Learning with Temporal Optimal Transport Reward | [Paper](https://arxiv.org/abs/2410.21795) &middot; [Code](https://github.com/fuyw/TemporalOT) &middot; [Website](https://sites.google.com/site/hczhang1/projects/temporalot) |
 | 2025 | **ORCA**: Imitation Learning from a Single Temporally Misaligned Video | [Paper](https://proceedings.mlr.press/v267/huey25a.html) &middot; [Code](https://github.com/portal-cornell/orca/) &middot; [Website](https://portal-cornell.github.io/orca/) |
@@ -217,10 +191,10 @@ A curated reading list accompanying **A Survey of Embodied Rewards for Robotic M
 | 2017 | Deep Reinforcement Learning from Human Preferences | [Paper](https://arxiv.org/abs/1706.03741) |
 | 2018 | Reward Learning from Human Preferences and Demonstrations in Atari | [Paper](https://arxiv.org/abs/1811.06521) |
 | 2022 | **IBT**: Improving Multimodal Interactive Agents with Reinforcement Learning from Human Feedback | [Paper](https://arxiv.org/abs/2211.11602) |
-| 2023 | Learning a Universal Human Prior for Dexterous Manipulation from Human Preference | [Paper](https://arxiv.org/abs/2304.04602) |
+| 2023 | Learning a Universal Human Prior for Dexterous Manipulation from Human Preference | [Paper](https://arxiv.org/abs/2304.04602) &middot; [Website](https://sites.google.com/view/openbidexhand) |
 | 2024 | **RAPL**: Maximizing Alignment with Minimal Feedback: Efficiently Learning Rewards for Visuomotor Robot Policy Alignment | [Paper](https://arxiv.org/abs/2412.04835) &middot; [Website](https://sites.google.com/berkeley.edu/rapl/home) |
 | 2025 | **FDPP**: Fine-Tune Diffusion Policy with Human Preference | [Paper](https://arxiv.org/abs/2501.08259) |
-| 2025 | **HALO**: Human Preference Aligned Offline Reward Learning for Robot Navigation | [Paper](https://proceedings.mlr.press/v305/seneviratne25a.html) |
+| 2025 | **HALO**: Human Preference Aligned Offline Reward Learning for Robot Navigation | [Paper](https://proceedings.mlr.press/v305/seneviratne25a.html) &middot; [Website](https://gamma.umd.edu/researchdirections/crowdmultiagent/halo/) |
 | 2026 | **FPL**: Freeform Preference Learning for Robotic Manipulation | [Paper](https://arxiv.org/abs/2606.32027) &middot; [Code](https://github.com/freeform-pl/fpl) &middot; [Website](https://freeform-pl.github.io/fpl.website/) |
 
 ### Synthetic Preference Construction
