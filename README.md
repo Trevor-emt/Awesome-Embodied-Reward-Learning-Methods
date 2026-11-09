@@ -1,6 +1,7 @@
 # Awesome Embodied Reward Learning Methods
 
-A curated reading list accompanying **A Survey of Embodied Rewards for Robotic Manipulation**. 
+A curated reading list accompanying **A Survey of Embodied Rewards for Robotic Manipulation**.
+We provide a preprint of the survey [here](./Reward_Survey.pdf).
 
 ## Contents
 
@@ -20,15 +21,6 @@ A curated reading list accompanying **A Survey of Embodied Rewards for Robotic M
   - [Preferences from Human Feedback](#preferences-from-human-feedback)
   - [Synthetic Preference Construction](#synthetic-preference-construction)
   - [Preferences from Foundation Model Feedback](#preferences-from-foundation-model-feedback)
-
-## Reading Notes
-
-- Classification follows the survey. Within each subsection, papers are sorted by year (oldest first), then alphabetically by their full titles within the same year, ignoring case, spaces, and punctuation.
-- Papers discussed in multiple subsections are cross-listed. Repeated entries refer to the same paper.
-- **Paper** links lead to a publication page, an arXiv record, or an author-hosted paper. **Code** and **Website** links are included only when an author-associated implementation or project page was identified.
-- An omitted Code or Website link means that no confirmed resource was found, not necessarily that none exists. Code marked as coming soon is not listed.
-- General-purpose perception models, datasets, pure theoretical references, and non-embodied action-progress background papers are not listed as reward methods.
-- Years follow the survey bibliography; publication years may differ from arXiv submission dates. Some OpenReview paper links may require browser verification.
 
 
 ## Goal-oriented Rewards
