@@ -217,7 +217,7 @@ If you find this survey useful in your research, please consider citing it:
 
 ```bibtex
 @misc{embodiedrewardsurvey2026,
-  title = {VLARLKit: An Elegant PyTorch VLA-RL Library},
+  title = {A Survey of Embodied Rewards for Robotic Manipulation},
   author = {Nan Tang and Peng-Yuan Wang and Jing-Cheng Pang and
              Zhi-Chao Wu and Hao-Xiang Ren and Yi-Fei Sheng and
              Hao-Nan Wang and Zhi-Long Zhang and Shi-Yuan Zhang and
