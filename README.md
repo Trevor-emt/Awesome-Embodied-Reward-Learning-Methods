@@ -1,6 +1,6 @@
 # Awesome Embodied Reward Learning Methods
 
-A curated reading list accompanying **A Survey of Embodied Rewards for Robotic Manipulation**.
+A reading list accompanying the survey: **A Survey of Embodied Rewards for Robotic Manipulation**.
 We provide a preprint of the survey [here](./Reward_Survey.pdf).
 
 ## Contents
@@ -211,3 +211,19 @@ We provide a preprint of the survey [here](./Reward_Survey.pdf).
 | 2025 | **Offline RL-VLM-F**: Real-World Offline Reinforcement Learning from Vision Language Model Feedback | [Paper](https://arxiv.org/abs/2411.05273) &middot; [Website](https://offline-rlvlmf.github.io/) |
 | 2025 | **TREND**: Tri-Teaching for Robust Preference-Based Reinforcement Learning with Demonstrations | [Paper](https://arxiv.org/abs/2505.06079) &middot; [Website](https://shuaiyihuang.github.io/publications/TREND/) |
 | 2025 | **VARP**: Reinforcement Learning from Vision-Language Model Feedback with Agent Regularized Preferences | [Paper](https://arxiv.org/abs/2503.13817) |
+
+## Citation
+If you find this survey useful in your research, please consider citing it:
+
+```bibtex
+@misc{embodiedrewardsurvey2026,
+  title = {VLARLKit: An Elegant PyTorch VLA-RL Library},
+  author = {Nan Tang and Peng-Yuan Wang and Jing-Cheng Pang and
+             Zhi-Chao Wu and Hao-Xiang Ren and Yi-Fei Sheng and
+             Hao-Nan Wang and Zhi-Long Zhang and Shi-Yuan Zhang and
+             Jun-Yin Ye and Fan-Ming Luo and Hao-Xin Lin and Yang Yu},
+  year = {2026},
+  journal = {Preprint},
+  howpublished = {https://github.com/Trevor-emt/Awesome-Embodied-Reward-Learning-Methods}
+}
+```
